@@ -1,2 +1,2 @@
 # putri-coba
-coba upload web php
+upload web php
